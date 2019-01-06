@@ -13,7 +13,12 @@ class App extends Component {
 
   config = {
     pages: [
-      'pages/index/index'
+      'pages/firstpage/index',
+      'pages/index/index',
+      'pages/setting/index',
+      'pages/krsetting/index',
+      'pages/topsetting/index',
+      'pages/share/index',
     ],
     window: {
       backgroundTextStyle: 'light',
